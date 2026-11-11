@@ -1,6 +1,6 @@
 <div align="center">
 
-# Fahima Behillil
+# Fahima B
 
 ### Cheffe de projet IA & Automatisation · *Business Tech Bridge*
 
