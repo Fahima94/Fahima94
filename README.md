@@ -70,7 +70,7 @@ Je pars du terrain : **audit des process → besoins cachés → solution automa
 ## 🎓 Parcours
 
 - **Bootcamp Cheffe de projet IA & No-Code — titre RNCP niveau 6** · Oreegami (04/2026 – 09/2026)
-- **Data & IA générative** — Liora
+- **Data & IA générative** — Liora (ex-DataScientest)
 - **Data Analyst** — OpenClassrooms × ENSAE
 - **MBA Commerce international** — Université Paris XII (UPEC)
 - Évaluation qualité et alignement de LLM — TELUS Digital AI (2025-2026)
