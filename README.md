@@ -33,8 +33,8 @@ Je pars du terrain : **audit des process → besoins cachés → solution automa
 | Projet | Ce que ça résout | Stack |
 |---|---|---|
 | **MVP Select Tour Family** | Trouver le séjour familial optimisé (chambres, dates, budget) sur l'Égypte et la Turquie | Claude Code |
-| **Automatisation cabinet infirmier libéral** · *en cours* | Audit des besoins terrain (prise de RDV, tournées, outils actuels) et cadrage de la solution | Audit · Supabase · n8n · Google Maps |
-| **Audit RGPD PME** | Application web d'audit de conformité RGPD pour les petites entreprises | Flask · Python · GCP |
+| [**Automatisation cabinet infirmier libéral**](https://github.com/Fahima94/cabinet-infirmier-automatisation) · *en cours* | Audit des besoins terrain (prise de RDV, tournées, outils actuels) et cadrage de la solution | Audit · Supabase · n8n · Google Maps |
+| [**Audit RGPD PME**](https://github.com/Fahima94/audit-rgpd-pme) | Application web d'audit de conformité RGPD pour les petites entreprises | Flask · Python · GCP |
 | [**DV Maker**](https://github.com/Fahima94/n8n_dvmaker) · *hackathon* | 3 agents IA qui génèrent un CV conforme ATS, sourcé et vérifiable par QR code | n8n · GPT-5 mini · GitHub API |
 | **Automatisation candidatures** | Du repérage de l'offre au CV et à la lettre de motivation ciblés, suivi compris | Airtable → n8n / Supabase |
 | **Reachly** | Moteur de contenu LinkedIn alimenté par flux RSS, connecté via MCP | Make / Airtable → n8n / Supabase |
