@@ -35,7 +35,7 @@ Je pars du terrain : **audit des process → besoins cachés → solution automa
 | Projet | En bref | Stack |
 |---|---|---|
 | [**PilotProj**](https://github.com/Fahima94/pilotproj) | Copilote du chef de projet : ingestion de docs et réunions, transcription, matrice des risques, RACI, génération de slides COPIL | React · TypeScript · Gemini · Firebase |
-| [**DV Maker**](https://github.com/Fahima94/n8n_dvmaker) | Hackathon Oreegami × Documentum Vitae : 3 agents IA qui génèrent un CV conforme ATS, sourcé et vérifiable par QR code | n8n · Claude · Supabase |
+| [**DV Maker**](https://github.com/Fahima94/n8n_dvmaker) | Hackathon Oreegami × Documentum Vitae : 3 agents IA qui génèrent un CV conforme ATS, sourcé et vérifiable par QR code | n8n · GPT-5 mini · GitHub API |
 | [**MK Coiffure**](https://github.com/Fahima94/mk-coiffure) | Réservation en ligne pour un salon solo, sans téléphone, avec rappels SMS automatiques | Supabase · n8n · Dokploy |
 | [**TechFlow — Transformation IA**](https://github.com/Fahima94/Formation-Techflows-IA) | Mission de déploiement d'assistants IA dans une PME de 45 personnes (Commercial, Dev, Support) | Prompt engineering · Conduite du changement |
 | [**Yield Management Tourisme**](https://github.com/Fahima94/yield-management-tourism) | Mon expertise terrain de revenue management digitalisée : ADR, RevPAR, allotements, pricing | Python · Streamlit |
