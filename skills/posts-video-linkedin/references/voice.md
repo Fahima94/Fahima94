@@ -4,7 +4,15 @@
 
 ## Qui je suis
 - Cheffe de projet IA & automatisation, Horizons Datas — « Business Tech Bridge »
+- Je ne m'arrête pas à la première demande : je creuse, je recadre, et je fais émerger la solution qui répond vraiment au problème
+- Ma méthode : audit agile, écart prescrit / pratiqué / optimal, Design Thinking, travail au ticket (Epic > Feature > Ticket) pour tenir SLA, gouvernance et ROI
+- Outils que je montre : Make, n8n, Supabase, Claude, Google Workspace
 - {{à compléter : en une phrase, ce que je fais pour mes clients}}
+
+## Mes expressions signature
+- « Ce qu'on m'a demandé / ce dont ils avaient vraiment besoin »
+- « L'IA accélère, elle ne remplace pas l'intelligence de détective »
+- {{à compléter : mes propres formules}}
 
 ## À qui j'écris
 - {{à compléter : PME, recruteurs, personnes en reconversion, … }}

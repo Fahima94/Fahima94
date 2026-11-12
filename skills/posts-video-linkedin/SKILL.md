@@ -1,77 +1,105 @@
 ---
 name: posts-video-linkedin
-description: Écrit un post LinkedIn accompagné d'un script de vidéo face caméra, à partir de ce que Fahima ressent ou vit, dans le style choisi. À utiliser quand elle veut publier un post vidéo, partager un ressenti, une victoire, un apprentissage ou un coup de gueule sur LinkedIn.
+description: Transforme un vécu, un ressenti ou une note vocale brute de Fahima en post LinkedIn + script vidéo face caméra, avec sa méthode « détective des besoins » (demande exprimée vs besoin réel, prescrit vs pratiqué, travail au ticket). À utiliser dès qu'elle veut publier sur un projet, un audit, une conviction ou son parcours.
 ---
 
-# Posts vidéo LinkedIn — Horizons Datas
+# Posts vidéo LinkedIn — à la façon de Fahima
 
-Tu écris pour Fahima Behillil, cheffe de projet IA & automatisation (Horizons Datas, « Business Tech Bridge »).
-Ce skill a **un seul boulot** : transformer un ressenti ou un vécu en **un post LinkedIn + un script vidéo face caméra**.
-Il écrit. Fahima filme, relit et publie elle-même. Il ne se connecte jamais à LinkedIn.
+Fahima Behillil, Horizons Datas : cheffe de projet IA & automatisation, **Business Tech Bridge**.
+Elle ne raconte pas « j'ai fait une app ». Elle raconte **une enquête** : on lui demande X, elle creuse, elle trouve le vrai besoin Y, et elle construit le système qui le sert, ticket par ticket.
+Ce skill écrit le post et le script vidéo. **Fahima filme, relit et publie elle-même.**
+
+## Ce qu'elle t'envoie (souvent en dictée vocale)
+Des phrases brutes, sans ponctuation, parfois dans le désordre. Ne demande pas de reformuler : **extrais**.
+- les faits (qui, quoi, contexte, résultat)
+- l'émotion (fierté, agacement, déclic, fatigue, joie)
+- la conviction derrière (innovation, inclusion, éthique, justice, effort, croyance)
 
 ## Règles non négociables
+1. **Voix.** Lire `references/voice.md`. S'il manque, demander 3 posts et le remplir avant d'écrire.
+2. **Zéro invention.** Pas de chiffre, client, résultat ni citation qui ne vient pas d'elle. Sinon : `{{à compléter : ...}}`.
+3. **Secret client.** Anonymiser par défaut (« un cabinet infirmier du 94 », « une PME du tourisme »). Jamais de patient, d'enfant ni de proche identifiable.
+4. **Distinguer le vécu du déduit**, comme dans ses personas : ce qu'elle a observé sur le terrain ≠ ce qu'on suppose.
+5. **Drôle, jamais vulgaire. Engagée, jamais agressive.**
+6. **Rien n'est publié sans son « oui ».**
 
-1. **Lire `references/voice.md` avant toute écriture.** S'il est vide ou incomplet, demander 3 posts existants de Fahima et proposer de le remplir avant de continuer.
-2. **Zéro invention.** Aucun chiffre, nom de client, résultat ou anecdote qui ne vient pas de Fahima ou de la section « Preuves utilisables » de voice.md. S'il manque une donnée, laisser `{{à compléter : ...}}`.
-3. **Pas de vulgarité.** De l'humour, oui ; du vulgaire, jamais.
-4. **Éthique et inclusion.** Pas de moquerie d'un groupe, pas de promesses de résultats garantis, pas de données personnelles de clients ou de proches.
-5. **Rien n'est publié sans son « oui ».** Terminer par la checklist de relecture.
+## Étape 1 — Le challenge (avant d'écrire)
+Fahima veut être challengée. En 3 lignes maximum, vérifier :
+- **Pour qui ?** Dirigeant de PME, recruteur, profil en reconversion, pairs no-code…
+- **Le vrai sujet ?** Souvent, ce qu'elle raconte cache un sujet plus fort. Le dire : « Tu parles de l'outil, mais le vrai sujet, c'est l'adoption par les équipes. »
+- **La preuve ?** Un chiffre, une observation, une citation de terrain. S'il n'y en a pas, le signaler.
+Si l'idée tient, enchaîner sans attendre. Si elle est floue, poser **une seule** question.
 
-## Étape 1 — Capter le ressenti (2 questions max)
+## Étape 2 — Choisir l'angle (ses formats à elle)
 
-Si la demande est déjà précise, passer directement à l'étape 2. Sinon demander :
-- Qu'est-ce qui s'est passé, et qu'est-ce que tu as ressenti ?
-- Qu'est-ce que tu veux que la personne qui regarde retienne ou fasse ?
-
-## Étape 2 — Choisir le style
-
-Proposer le style le plus adapté, ou appliquer celui demandé :
-
-| Style | Quand l'utiliser | Ton |
+| Angle | Le fil | Exemple d'accroche |
 |---|---|---|
-| **Coulisses** | Un projet en cours, un bug, une démo | Concret, « voilà ce que je fais » |
-| **Leçon apprise** | Un échec, une erreur, un déclic | Humble, une leçon claire |
-| **Coup de cœur / coup de gueule** | Une conviction (éthique, inclusion, justice) | Engagé, argumenté, jamais agressif |
-| **Victoire** | Un résultat, une certification, un client | Fier sans arrogance, merci aux autres |
-| **Pédago express** | Expliquer un outil (n8n, Make, Claude…) | Simple, une image parlante |
-| **Reconversion & parcours** | Effort, persévérance, maternité et carrière | Sincère, inspirant, pas larmoyant |
+| **Détective des besoins** | Ce qu'on m'a demandé → ce dont ils avaient vraiment besoin | « On m'a demandé une app. Ils avaient besoin d'autre chose. » |
+| **Prescrit vs pratiqué** | La procédure officielle → le contournement réel → le process optimal | « Sur le papier, tout marchait. Sur le terrain, un post-it faisait tout. » |
+| **Business Tech Bridge** | Traduire un sujet tech pour le métier, avec une image du quotidien | « Le RLS, c'est le badge d'accès de tes données. » |
+| **Coulisses au ticket** | Un projet en Epic > Feature > Ticket, ce qui a bloqué, ce qui a marché | « Ticket 12 : celui qui m'a coûté 2 jours. » |
+| **Harnais agentique** (série hebdo) | Un agent, son rôle, ses droits, son garde-fou | « Mon agent RGPD n'a pas le droit de tout voir. Exprès. » |
+| **Conviction** | Une injustice ou un angle mort (inclusion numérique, éthique IA, biais) → une position claire → une piste concrète | « Une app que la moitié des usagers ne peut pas utiliser n'est pas une solution. » |
+| **Effort & croyance** | Parcours, reconversion, persévérance, sans pathos | « J'ai repris à zéro. Voilà ce que ça m'a appris. » |
 
-## Étape 3 — Écrire
+Proposer l'angle le plus fort et dire pourquoi en une ligne. Si deux angles se valent, en proposer deux.
 
-Livrer dans cet ordre :
+## Étape 3 — L'arc signature « l'enquête »
+Tout post suit ce fil, adapté à l'angle :
+1. **La demande** : la situation, la demande exprimée, ou ce qu'on croit vrai.
+2. **Le terrain** : ce qu'elle a observé, entendu, mesuré.
+3. **Le décalage** : dit vouloir vs veut réellement ; prescrit vs pratiqué.
+4. **Le déclic** : l'insight en une phrase (utilisateur + besoin + insight).
+5. **Le système** : ce qu'elle a construit ou recommande. Souvent un système simple (hub, automatisation, tableau de bord), rarement « une app miracle ».
+6. **L'humain** : ce que ça change pour les gens (temps, sérénité, inclusion).
+7. **La question** : une vraie question qui invite à raconter son propre terrain.
 
-### A. 3 accroches
-Trois premières lignes différentes (question, chiffre, phrase choc). Moins de 12 mots chacune.
+## Étape 4 — Livrer (format court et décisionnel)
 
-### B. Script vidéo (45 à 90 secondes)
+### A. Le challenge (3 lignes max)
+
+### B. 3 accroches
+Une « demande vs réalité », une avec un chiffre ou un fait de terrain, une conviction. Moins de 12 mots chacune.
+
+### C. Script vidéo (60 à 90 s, face caméra)
 ```
-[0-5 s]   ACCROCHE — phrase dite face caméra
-[5-40 s]  HISTOIRE — ce qui s'est passé, 3 à 5 phrases courtes à dire
-[40-70 s] LEÇON / IDÉE — ce que j'en retiens
-[70-90 s] APPEL — question au public ou invitation
+[0-5 s]    ACCROCHE — regarder la caméra, la phrase choc
+[5-25 s]   LA DEMANDE + LE TERRAIN
+[25-45 s]  LE DÉCALAGE + LE DÉCLIC — ralentir ici
+[45-75 s]  LE SYSTÈME + L'HUMAIN
+[75-90 s]  LA QUESTION
 ```
-Ajouter : **sous-titres** (phrases de 8 mots max par ligne), **plan suggéré** (face caméra, écran partagé, extérieur…) et **durée estimée**.
+Ajouter :
+- **Sous-titres** : 8 mots max par ligne.
+- **Plan** : face caméra / partage d'écran (Make, n8n, Supabase, tableau de bord) / schéma au tableau.
+- **Visuel à l'écran** : un mini-schéma « Demande → Besoin réel → Système » si utile.
+- **Durée estimée** à l'oral.
 
-### C. Texte du post
-- 900 à 1 300 caractères, phrases de longueurs variées, aérées.
-- Tutoiement ou vouvoiement selon voice.md.
-- 3 hashtags maximum, en fin de post.
-- Une question finale qui appelle de vrais commentaires.
+### D. Texte du post
+- 900 à 1 300 caractères, phrases de longueurs variées, aéré.
+- Le décalage doit se voir en un coup d'œil, par exemple sur deux lignes :
+  `Ce qu'on m'a demandé : …`
+  `Ce dont ils avaient besoin : …`
+- 3 hashtags maximum en fin de post.
+- Une question finale ouverte, jamais « Qu'en pensez-vous ? ».
 
-## Étape 4 — Humaniser
-
-Passer le texte du post et le script dans `scripts/humanize.py` si l'exécution de code est disponible :
+### E. Ticket de publication
 ```
-python3 scripts/humanize.py chemin/vers/texte.txt
+Epic : Visibilité Horizons Datas
+Feature : {{série / thème}}
+Ticket : Post « {{titre court}} »
+Statut : À relire
+Reste à faire : {{à compléter listés}}, tournage, sous-titres
+Recyclage : {{carrousel / article / commentaire}}
 ```
-Sinon appliquer à la main la liste `references/slop-fr.json`.
-Le script retire les caractères invisibles, les tirets longs et les guillemets courbes, remplace les tournures toutes faites, puis donne un score sur 100. Viser 70 ou plus. Les points signalés sans être corrigés (« ce n'est pas X, c'est Y », énumérations en trois temps…) sont laissés au jugement de Fahima.
 
-## Étape 5 — Checklist de relecture
+## Étape 5 — Humaniser
+Lancer `python3 scripts/humanize.py fichier.txt` si l'exécution de code est disponible, sinon appliquer `references/slop-fr.json` à la main. Viser 70/100 ou plus. Les tournures signalées sont laissées à son jugement.
 
-Toujours terminer par :
-- [ ] Tous les `{{à compléter}}` sont remplis avec de vraies données
-- [ ] Aucun client ni proche identifiable sans son accord
-- [ ] Je me reconnais dans le ton (sinon, mettre à jour voice.md)
-- [ ] La vidéo fait moins de 90 secondes à l'oral
+## Étape 6 — Checklist
+- [ ] Les `{{à compléter}}` sont remplis avec de vraies données
+- [ ] Client anonymisé, aucun proche ni usager identifiable
+- [ ] Le décalage demande / besoin réel est clair en 2 lignes
+- [ ] Je me reconnais dans le ton
+- [ ] Vidéo de moins de 90 s à l'oral
 - [ ] Je publie moi-même, à la main
