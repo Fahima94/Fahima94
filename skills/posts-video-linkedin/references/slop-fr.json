@@ -1,0 +1,40 @@
+{
+  "_info": "Tournures toutes faites à remplacer. Clé = expression, valeur = remplacement ('' = supprimer). Ajoute tes propres tics.",
+  "replace": {
+    "dans un monde en constante évolution": "aujourd'hui",
+    "dans le monde d'aujourd'hui": "aujourd'hui",
+    "à l'ère du numérique": "aujourd'hui",
+    "force est de constater que": "",
+    "il est important de noter que": "",
+    "il convient de souligner que": "",
+    "il est essentiel de": "il faut",
+    "en fin de compte": "au final",
+    "plongeons dans": "voyons",
+    "plongeons au cœur de": "voyons",
+    "véritable game changer": "vrai changement",
+    "game changer": "vrai changement",
+    "révolutionner": "changer",
+    "tirer parti de": "utiliser",
+    "levier incontournable": "levier",
+    "incontournable": "utile",
+    "booster": "améliorer",
+    "synergie": "collaboration",
+    "fluidifier": "simplifier",
+    "au cœur de": "dans",
+    "n'hésitez pas à": "",
+    "n'hésite pas à": "",
+    "et vous, qu'en pensez-vous ?": "Et toi, tu ferais comment ?",
+    "laissez-moi vous expliquer": "",
+    "sans plus attendre": "",
+    "je suis ravie de vous annoncer": "",
+    "je suis fière de vous annoncer": "",
+    "un voyage": "un parcours",
+    "en somme": "",
+    "en définitive": ""
+  },
+  "flag": [
+    "ce n'est pas .{1,40}, c'est",
+    "pas seulement .{1,40} mais aussi",
+    "#\\w+(\\s+#\\w+){3,}"
+  ]
+}
